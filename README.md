@@ -1,1 +1,1 @@
-# ElectricityBillingSystem-
+The Electricity Billing System in Java allows users to input customer details such as name and units consumed. It calculates the bill based on a fixed rate per unit and displays the total amount due. This simple program demonstrates basic object-oriented principles and user input handling in Java.# ElectricityBillingSystem-
